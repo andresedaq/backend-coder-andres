@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung Galaxy Note 20",
+        "description": "A premium smartphone with a stylus and powerful performance.",
+        "price": 899,
+        "thumbnail": "note20-thumbnail.jpg",
+        "code": "Note20",
+        "stock": 8
+    },
+    {
+        "id": 2,
+        "title": "Samsung Galaxy Fold",
+        "description": "A foldable smartphone with innovative design and technology.",
+        "price": 1999,
+        "thumbnail": "fold-thumbnail.jpg",
+        "code": "Fold",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Samsung Galaxy S20 FE",
+        "description": "A budget-friendly smartphone with flagship-level features.",
+        "price": 599,
+        "thumbnail": "s20fe-thumbnail.jpg",
+        "code": "S20FE",
+        "stock": 12
+    }
+]
